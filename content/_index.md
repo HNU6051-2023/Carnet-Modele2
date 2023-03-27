@@ -1,8 +1,6 @@
 ---
 date: "2017-06-26T18:27:58+01:00"
-title: "Accueil"
+title: "À propos"
 ---
 
-Bienvenue dans la page de présentation du Modèle 2. 
-
-Thème à partir du projet [original Cupper](https://github.com/ThePacielloGroup/cupper).
+Ce carnet d’écriture est un espace dédié à la conservation de mes correspondances. Au cours du premier confinement, je me suis intéressée à cette pratique afin d’interagir autrement que par le numérique avec des gens autour du globe. J’ai reçu pour le moment douze lettres entre mai et octobre 2020 provenant de sept personnes qui demeurent soit au Canada, aux États-Unis, en Australie ou en Écosse. 
