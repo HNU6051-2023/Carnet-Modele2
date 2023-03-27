@@ -31,7 +31,7 @@ customCss = [ "css/custom_01.css", "css/custom_02.css" ]
 customJs = [ "js/custom_01.js", "js/custom_02.js" ]
 
 [[menu.nav]]
-name = "Accueil"
+name = "À propos"
 url = "/"
 weight = 1
 
@@ -51,7 +51,7 @@ url = "/tags/"
 weight = 4
 
 [[menu.nav]]
-name = "À propos"
+name = "Crédits"
 url = "/about/"
 weight = 5
 
