@@ -15,7 +15,7 @@ posts = "/:filename/"
 quality = 99
 
 [params]
-description = "description"
+description = "Coucou"
 homeMetaContent = ""
 footer = "Texte du footer"
 dateFormat = "Jan 2, 2006"
