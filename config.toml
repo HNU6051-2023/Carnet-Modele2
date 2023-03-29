@@ -26,11 +26,7 @@ search = true
 showThemeSwitcher = true
 defaultDarkTheme = false
 moveFooterToHeader = false
-logoAlt = {{< Correspondances_Alexya
-          img="logo.png" 
-          caption="Légende avec crédits" 
-          command="Resize" 
-          options="700x" >}}
+logoAlt = ![MarineGEO circle logo](/Correspondances_Alexya/img/MarineGEO_logo.png "MarineGEO logo"
 customCss = [ "css/custom_01.css", "css/custom_02.css" ]
 customJs = [ "js/custom_01.js", "js/custom_02.js" ]
 
